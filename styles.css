@@ -1,0 +1,21 @@
+/* JOANA sayz: */
+
+/* tm-headerbar
+/* ------------------------------------------------- */
+div.tm-headerbar.uk-clearfix.uk-hidden-small > div {
+	font-weight: 100;
+	font-size: 13px;
+	padding-left: 20px;
+	quotes: "\201C" "\201D";
+	position: relative;
+    }
+
+div.tm-headerbar.uk-clearfix.uk-hidden-small > div:before {
+    content: open-quote;
+    display: block;
+    float: left;
+    margin-left: -20px;
+    font-size: 40px;
+    }
+  
+/* fim JOANA */
