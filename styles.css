@@ -1,14 +1,17 @@
-/* JOANA sayz: */
+/* JOANA sayz & plays: */
 
 /* tm-headerbar
 /* ------------------------------------------------- */
 div.tm-headerbar.uk-clearfix.uk-hidden-small > div {
-	font-weight: 100;
-	font-size: 13px;
-	padding-left: 20px;
-	quotes: "\201C" "\201D";
-	position: relative;
-    }
+    font-weight: 100;
+    font-size: 13px;
+    padding-left: 20px;
+    quotes: "\201C" "\201D";
+    position: relative;
+    width: 80%;
+    margin-left: 0;
+    display: inline-block;
+}
 
 div.tm-headerbar.uk-clearfix.uk-hidden-small > div:before {
     content: open-quote;
@@ -16,6 +19,6 @@ div.tm-headerbar.uk-clearfix.uk-hidden-small > div:before {
     float: left;
     margin-left: -20px;
     font-size: 40px;
-    }
+}
   
 /* fim JOANA */
