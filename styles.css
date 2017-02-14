@@ -6,12 +6,12 @@ div.tm-headerbar.uk-clearfix.uk-hidden-small > div {
     font-weight: 100;
     font-size: 13px;
     padding-left: 20px;
-    quotes: "\201C" "\201D";
     position: relative;
     width: 80%;
     margin-left: 0;
     display: inline-block;
     float: none;
+    quotes: "\201C" "\201D";
 }
 
 div.tm-headerbar.uk-clearfix.uk-hidden-small > div:before {
