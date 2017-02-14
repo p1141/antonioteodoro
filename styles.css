@@ -11,6 +11,7 @@ div.tm-headerbar.uk-clearfix.uk-hidden-small > div {
     width: 80%;
     margin-left: 0;
     display: inline-block;
+    float: none;
 }
 
 div.tm-headerbar.uk-clearfix.uk-hidden-small > div:before {
