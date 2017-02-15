@@ -2,6 +2,11 @@
 
 /* tm-headerbar
 /* ------------------------------------------------- */
+
+html body .tm-headerbar {
+    padding-top: 34px;
+}
+
 div.tm-headerbar.uk-clearfix.uk-hidden-small > div {
     font-weight: 100;
     font-size: 13px;
